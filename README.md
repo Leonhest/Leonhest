@@ -1,16 +1,14 @@
-### Hi there 👋
+# Leon Hesthaug's GitHub
 
-<!--
-**Leonhest/Leonhest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Programming Lanuguages
+### Know
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,html,css,git,&theme=light&perline=)](https://skillicons.dev)
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=js,c&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitLab
+[![My Skills](https://skillicons.dev/icons?i=gitlab&theme=light)](https://gitlab.stud.idi.ntnu.no/leonehe)
+
+## Contact
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/leon-hesthaug-15a93b109/)
