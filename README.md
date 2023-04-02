@@ -13,7 +13,7 @@
 
 ### Learning
 
-<img src = "https://skillicons.dev/icons?i=c++,c,&theme=light" width = 33%>
+<img src = "https://skillicons.dev/icons?i=cpp,c,&theme=light" width = 33%>
 
 
 ## GitLab
