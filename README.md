@@ -9,11 +9,11 @@
 ## Programming Lanuguages
 ### Know
 
-<img src = "https://skillicons.dev/icons?i=java,python,mysql,html,css,git,&theme=light" width = 80%>
+<img src = "https://skillicons.dev/icons?i=java,python,js,mysql,html,css,git,&theme=light" width = 80%>
 
 ### Learning
 
-<img src = "https://skillicons.dev/icons?i=js,c,&theme=light" width = 33%>
+<img src = "https://skillicons.dev/icons?i=c++,c,&theme=light" width = 33%>
 
 
 ## GitLab
